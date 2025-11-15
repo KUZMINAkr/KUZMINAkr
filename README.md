@@ -23,7 +23,8 @@ This helps me grow toward a future role as a **strong technical QA / QA Automati
 ✔ Test Cases  
 ✔ Checklist  
 ✔ Summary  
-📁 *Repository will be uploaded here soon*
+📂 Repository:
+https://github.com/KUZMINAkr/Mobile_Testing_Project
 
 ---
 
@@ -37,7 +38,8 @@ This helps me grow toward a future role as a **strong technical QA / QA Automati
 ✔ Test Cases  
 ✔ Checklist  
 ✔ Summary  
-📁 *Repository will be uploaded here soon*
+📂 Repository:
+https://github.com/KUZMINAkr/Web_Testing_Project
 
 ---
 
