@@ -56,15 +56,15 @@ Data-driven testing with CSV files
 
 ERP → eCommerce workflow simulations
 
-ScandiPWA extension analysis and developer task preparation
+ScandiPWA extension analysis & developer task preparation
 
 Includes:
-✔ 20 structured bug reports with priorities
-✔ Screenshot evidence + video reproduction
-✔ Data-driven test scenarios (product sync & order status updates)
-✔ Order status flowchart
-✔ Full ScandiPWA practical case study
-✔ Developer-ready tasks with visuals, acceptance criteria & test steps
+✔️ 20 structured bug reports with priorities
+✔️ Screenshot evidence + video reproduction
+✔️ Data-driven test scenarios (product sync & order status updates)
+✔️ Order status flowchart
+✔️ Full ScandiPWA practical case study
+✔️ Developer-ready tasks with visuals, acceptance criteria & test steps
 
 📁 Repository:
 https://github.com/KUZMINAkr/qa-portfolio-karina-kuzmina
