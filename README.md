@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Karina Kuzmina
+<h1 align="center">👋 Hi, I'm Karina Kuzmina</h1>
+<h3 align="center">Junior QA Engineer • Web & Mobile Testing • Bug Hunter</h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=KUZMINAkr&color=green)
 ![GitHub stars](https://img.shields.io/github/stars/KUZMINAkr?style=social)
-
-### Junior QA Engineer | Web & Mobile Testing | Bug Hunting  
+  
 ### Learning C# Backend & Planning to Learn Frontend (HTML/CSS/JS)
 
 🌟 Professional Summary  
