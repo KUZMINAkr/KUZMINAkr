@@ -6,12 +6,12 @@
 ### Junior QA Engineer | Web & Mobile Testing | Bug Hunting  
 ### Learning C# Backend & Planning to Learn Frontend (HTML/CSS/JS)
 
-Welcome to my GitHub!  
-
-🌟 Professional Summary
-Junior QA Engineer with strong attention to detail, solid understanding of web/mobile testing, and growing technical background (C#, Git, API basics).
-I combine structured testing with curiosity, fast learning, and the ability to break things in the right way.
+🌟 Professional Summary  
+Junior QA Engineer with strong attention to detail, solid understanding of web/mobile testing, and growing technical background (C#, Git, API basics).  
+I combine structured testing with curiosity, fast learning, and the ability to break things in the right way.  
 Open to Junior QA / QA Intern / QA Analyst roles (remote or hybrid).
+
+Welcome to my GitHub!
 
 ---
 
