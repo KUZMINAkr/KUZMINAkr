@@ -3,12 +3,11 @@
 ### Learning C# Backend & Planning to Learn Frontend (HTML/CSS/JS)
 
 Welcome to my GitHub!  
-I am a beginning QA Engineer focused on **web and mobile application testing**, defect detection, and test documentation.  
-I love exploring how applications work both from the user side (frontend/UI) and the internal logic (backend).
 
-Currently I am studying **C# backend development**, and later I plan to learn **frontend (HTML, CSS, JavaScript)** to understand the full picture of how applications are built.
-
-This helps me grow toward a future role as a **strong technical QA / QA Automation / Full-Stack QA Engineer**.
+🌟 Professional Summary
+Junior QA Engineer with strong attention to detail, solid understanding of web/mobile testing, and growing technical background (C#, Git, API basics).
+I combine structured testing with curiosity, fast learning, and the ability to break things in the right way.
+Open to Junior QA / QA Intern / QA Analyst roles (remote or hybrid).
 
 ---
 
@@ -70,6 +69,17 @@ https://github.com/KUZMINAkr/qa-portfolio-karina-kuzmina
 
 ## 🛠 Tools & Technologies
 
+## 🚀 Core Skills at a Glance
+- Manual QA (Web + Mobile)
+- UI/UX testing & usability analysis
+- Cross-browser & cross-device testing
+- Functional, regression, smoke, exploratory testing
+- Test documentation: test cases, bug reports, checklists
+- API basics (REST, JSON, Postman)
+- HTML/CSS/JS basics (learning)
+- C# backend fundamentals (learning)
+- Git & GitHub, Jira, YouTrack
+
 ### **QA Skills**
 - Test Design Techniques  
 - Checklists, Test Cases, Bug Reports  
@@ -95,6 +105,13 @@ https://github.com/KUZMINAkr/qa-portfolio-karina-kuzmina
 
 ---
 
+## 🏆 Achievements
+- Found a **critical crash** in DemoQA WebTables (white screen after Submit)
+- Completed **20+ structured bug reports** across 3 projects
+- Created **full ERP → Magento workflow simulation** with CSV test data
+- Designed **ScandiPWA extension debugging tasks** with visuals and acceptance criteria
+- Built a personal QA portfolio with complete artifacts (test plans, test cases, video evidence)
+
 ## 🎯 About Me
 
 - Transitioning into IT as a QA Engineer  
@@ -105,6 +122,19 @@ https://github.com/KUZMINAkr/qa-portfolio-karina-kuzmina
 
 ---
 
+## 📚 Currently Learning
+- C# backend development (.NET basics, OOP, API)
+- Postman + API testing  
+- HTML, CSS, JavaScript (planned)
+- SQL (next step)
+
+## 🎓 Growth Path
+- QA Automation with Selenium/WebDriver (C#)
+- API Test Automation
+- Performance testing basics (JMeter)
+- Frontend fundamentals (HTML/CSS/JS)
+- CI/CD basics (GitHub Actions)
+  
 ## 📫 Contacts
 
 **Email:** karinakzm99@gmail.com  
