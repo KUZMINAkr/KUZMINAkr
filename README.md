@@ -43,36 +43,27 @@ https://github.com/KUZMINAkr/Web_Testing_Project
 
 ---
 
-🟣 QA Portfolio — Web/Mobile Testing, Data-Driven Scenarios & ScandiPWA Case Study
+### 🟣 QA Portfolio — Web/Mobile Testing, Data-Driven Scenarios & ScandiPWA Case Study
 
-Tech:
-Web (Chrome, Firefox)
-iOS/Android (cross-device)
-ERP → Magento integrations
-ScandiPWA (React + Magento 2)
+**Tech:**  
+Web (Chrome, Firefox), iOS/Android (cross-device), ERP → Magento integrations, ScandiPWA (React + Magento 2)
 
-Focus:
-• Comprehensive UI testing
-• Bug reporting (functional, visual, content, performance, cross-browser, cross-device)
-• Data-driven testing with CSV files
-• ERP → eCommerce workflow simulations
+**Focus:**  
+• Comprehensive UI testing  
+• Bug reporting (functional, visual, content, performance, cross-browser, cross-device)  
+• Data-driven testing with CSV files  
+• ERP → eCommerce workflow simulations  
 • ScandiPWA extension analysis & developer task preparation
 
-Includes:
+**Includes:**  
+- ✔️ 20 structured bug reports with priorities  
+- ✔️ Screenshot evidence + video reproduction  
+- ✔️ Data-driven test scenarios (product sync & order status updates)  
+- ✔️ Order status flowchart  
+- ✔️ Full ScandiPWA practical case study  
+- ✔️ Developer-ready tasks with visuals, acceptance criteria & test steps  
 
-✔️ 20 structured bug reports with priorities
-
-✔️ Screenshot evidence + video reproduction
-
-✔️ Data-driven test scenarios (product sync & order status updates)
-
-✔️ Order status flowchart
-
-✔️ Full ScandiPWA practical case study
-
-✔️ Developer-ready tasks with visuals, acceptance criteria & test steps
-
-📁 Repository:
+📁 **Repository:**  
 https://github.com/KUZMINAkr/qa-portfolio-karina-kuzmina
 
 ---
