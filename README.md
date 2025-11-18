@@ -1,8 +1,11 @@
 <h1 align="center">👋 Hi, I'm Karina Kuzmina</h1>
 <h3 align="center">Junior QA Engineer • Web & Mobile Testing • Bug Hunter</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=KUZMINAkr&color=green)
-![GitHub stars](https://img.shields.io/github/stars/KUZMINAkr?style=social)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KUZMINAkr&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/KUZMINAkr?style=social" />
+  <img src="https://img.shields.io/github/stars/KUZMINAkr?style=social" />
+</p>
   
 ### Learning C# Backend & Planning to Learn Frontend (HTML/CSS/JS)
 
@@ -71,7 +74,17 @@ https://github.com/KUZMINAkr/qa-portfolio-karina-kuzmina
 
 ---
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KUZMINAkr&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUZMINAkr&layout=compact&theme=tokyonight" />
+</p>
+
 ## 🛠 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,js,html,css,cs,visualstudio" />
+</p>
 
 ## 🚀 Core Skills at a Glance
 - Manual QA (Web + Mobile)
@@ -116,13 +129,14 @@ https://github.com/KUZMINAkr/qa-portfolio-karina-kuzmina
 - Designed **ScandiPWA extension debugging tasks** with visuals and acceptance criteria
 - Built a personal QA portfolio with complete artifacts (test plans, test cases, video evidence)
 
-## 🎯 About Me
+## 🌟 About Me
 
-- Transitioning into IT as a QA Engineer  
-- Actively improving technical skills  
-- Passionate about finding bugs and improving product quality  
-- Aim to grow into a highly technical QA / Automation QA  
-- Interested in full-stack understanding of how apps work  
+- 🎯 Junior QA Engineer with strong attention to detail  
+- 🧪 Experience in Web & Mobile testing  
+- 🐞 Skilled in bug hunting, exploratory testing & documentation  
+- 💻 Learning C# backend development  
+- 🎨 Planning to learn HTML/CSS/JS for full-stack QA perspective  
+- 🚀 Goal: grow into Technical QA / QA Automation / Full-Stack QA   
 
 ---
 
@@ -141,8 +155,9 @@ https://github.com/KUZMINAkr/qa-portfolio-karina-kuzmina
   
 ## 📫 Contacts
 
-**Email:** karinakzm99@gmail.com  
-**GitHub:** https://github.com/KUZMINAkr  
+- 📧 Email: **karinakzm99@gmail.com**
+- 💼 LinkedIn: [https://www.linkedin.com/in/karina-kuzmina-767a87397](https://www.linkedin.com/in/karina-kuzmina-767a87397)
+- 🐙 GitHub: https://github.com/KUZMINAkr 
 
 ---
 
